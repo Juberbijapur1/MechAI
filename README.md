@@ -1,2 +1,2 @@
 # MechAI
-a obd scanning ai tool for machanics 
+Open source AI diagnostic tool for mechanics — fully offline, runs on weak hardware

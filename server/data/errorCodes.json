@@ -1,0 +1,26 @@
+{
+  "P0301": {
+    "title": "Cylinder 1 Misfire",
+    "description": "Engine cylinder 1 is not firing properly",
+    "severity": "high",
+    "hindi": "Cylinder 1 mein problem hai",
+    "causes": ["Spark plug worn out", "Fuel injector faulty", "Low compression"],
+    "fix": "Spark plug check karo pehle, phir injector test karo"
+  },
+  "P0420": {
+    "title": "Catalyst System Efficiency Low",
+    "description": "Catalytic converter is not working efficiently",
+    "severity": "medium",
+    "hindi": "Catalytic converter mein problem hai",
+    "causes": ["Old catalytic converter", "Oxygen sensor faulty", "Exhaust leak"],
+    "fix": "Oxygen sensor check karo, catalytic converter inspect karo"
+  },
+  "P0171": {
+    "title": "System Too Lean Bank 1",
+    "description": "Too much air, not enough fuel in engine",
+    "severity": "medium",
+    "hindi": "Engine mein fuel kam aa raha hai",
+    "causes": ["Vacuum leak", "MAF sensor dirty", "Fuel pump weak"],
+    "fix": "MAF sensor clean karo, vacuum lines check karo"
+  }
+}
